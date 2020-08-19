@@ -3,6 +3,8 @@ languageCode: en-us
 title: Personal website and blog
 theme: hugo-refresh
 # theme: ../..
+#
+googleAnalytics: UA-198220-16
 
 #########################################
 ######## Uncomment this option ##########
